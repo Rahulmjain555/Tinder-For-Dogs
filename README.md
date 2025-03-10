@@ -1,2 +1,1 @@
-# BMI-Calculator
-BMI Calculator using javascript
+#Tinder For Dogs
